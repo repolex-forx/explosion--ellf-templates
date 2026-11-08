@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "ellf-templates",
+  "versions": [
+    {
+      "commit": "da035be10624e0c992a9990d522f70d8e6cd67ef",
+      "tag": "",
+      "parsed_at": "2026-11-08T09:07:16.926058+00:00"
+    }
+  ]
+}
