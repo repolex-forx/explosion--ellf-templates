@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/explosion/ellf-templates/commit/da035be10624e0c992a9990d522f70d8e6cd67ef",
       "git:hexsha": "da035be10624e0c992a9990d522f70d8e6cd67ef",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T09:07:16.925704+00:00"
     }
   ]
 }
